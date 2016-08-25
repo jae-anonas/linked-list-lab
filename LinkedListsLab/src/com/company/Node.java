@@ -1,4 +1,4 @@
-package ListLab;
+package com.company;
 
 public class Node<T> {
 	Node<T> next;
